@@ -51,4 +51,4 @@ Quanto à forma como o jogador deve fornecer cada chute, deve-se pegar todas as 
         
 Por fim, é necessário verificar se o jogo chegou ao fim ou não. Existem dois casos em que o jogo chega ao seu fim: caso o jogador acerte a exata senha (então o jogo deve dar uma mensagem de parabenização e finalizar automaticamente o jogo) ou caso o jogador esgote as suas tentativas sem acertar a senha (então o jogo deve dar uma mensagem de fim de jogo e finalizar o jogo).
 
-# Meu jogo foi criado utilizando a lógica para 3 tentativas de chutes - e, consequentemente, permitindo o uso de 3 pinos de cada cor. 
+Meu jogo foi criado utilizando a lógica para 3 tentativas de chutes - e, consequentemente, permitindo o uso de 3 pinos de cada cor. 
